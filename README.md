@@ -12,4 +12,4 @@ cambios funcionan correctamente.
 4. Se usa try catch para ejecutar el método fetch y capturar los posibles errores
 mostrando el error en el DOM en caso de que haya problemas.
 
-   5. Se Implementa el gráfico pedido
+5. Se Implementa el gráfico pedido
